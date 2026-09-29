@@ -40,7 +40,7 @@ Built as a complete online shopping platform, Bhoomi allows users to browse, sea
    ```bash
    git clone <repository-url>
    ```
-2. Import the MySQL database schema
+2. Import the MySQL database schema from https://drive.google.com/drive/folders/1-6LuLrKeHpAMixXUlGw0-olIuicbbmxK(don't edit)
 3. Configure database connection settings
 4. Run the project on a local PHP server
 
